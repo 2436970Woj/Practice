@@ -1,1 +1,2 @@
 Welcome to my new project.
+We start using the remote repository.
